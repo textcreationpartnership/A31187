@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trve newes from Hull being a perfect relation of a conspiracy there by divers cavaliers coming in disguised habits, and entring themselves as souldiers, who intended to have surprised the tovvne, and to have killed Sir Iohn Hotham : with the manner how their wicked purpose was discovered, and they delivered up to safe custody / by R.C.</title>
+            <author>R. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31187</idno>
+            <idno type="STC">Wing C117</idno>
+            <idno type="STC">ESTC R15577</idno>
+            <idno type="EEBO-CITATION">12544692</idno>
+            <idno type="OCLC">ocm 12544692</idno>
+            <idno type="VID">63012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63012)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 249:E130, no 24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Trve newes from Hull being a perfect relation of a conspiracy there by divers cavaliers coming in disguised habits, and entring themselves as souldiers, who intended to have surprised the tovvne, and to have killed Sir Iohn Hotham : with the manner how their wicked purpose was discovered, and they delivered up to safe custody / by R.C.</title>
+                  <author>R. C.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date from the Thomason Collection.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Hull (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63012:1" rendition="simple:additions"/>
+            <p>TRVE NEWES FROM HULL.</p>
+            <p>Being a perfect Relation of a Conſpiracy there by divers <hi>Ca<g ref="char:EOLhyphen"/>valiers</hi> comming in diſguiſed Habits, and entring themſelves as Souldiers, who intended to have ſurpriſed the TOVVNE, And to have killed Sir <hi>Iohn Hotham.</hi>
+            </p>
+            <p>With the manner how their wic<g ref="char:EOLhyphen"/>ked purpoſe was diſcovered, and they delivered up to ſafe cuſtody.</p>
+            <p>By <hi>R. C.</hi>
+            </p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>Decemb 14 164<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </add>LONDON, Printed for <hi>Fr. Wright.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:63012:2"/>
+            <pb n="3" facs="tcp:63012:2"/>
+            <head>True Newes from <hi>Hull.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknown to the whole kingdome with what violence and ſpleene the good Towne of Kingſton upon Hull has been laid at by the Malignants of it, being the moſt famous and conſiderable Port of the whole North parts, thoſe perverſe Coun<g ref="char:EOLhyphen"/>cellors intimating to His Majeſty that it was the maineſt Engine to advance their deſignes that could poſſible be faſtened upon His Majeſty; therefore com<g ref="char:EOLhyphen"/>ming thither in perſon with his Cavaliers demanded en<g ref="char:EOLhyphen"/>trance into the Towne, which Sir <hi>Iohn Hotham</hi> the Gover<g ref="char:EOLhyphen"/>nour inſtituted by Order of Parliament, though he paid His Majeſty all the due reſpects of a Loyall Subject, refuſed to doe, well knowing the danger might arrive to the Common<g ref="char:EOLhyphen"/>wealth if thoſe enemies to the State, the Cavaliers, ſhould get poſſeſſion of that excellent Haven; by which meanes they might give free admittance to any forraigne forces, their malice ſhould call into their aids againſt the juſt pro<g ref="char:EOLhyphen"/>ceedings of the Parliament. This action, howſoever the King was pleaſed to miſconſtrue and take as an indignity to him<g ref="char:EOLhyphen"/>ſelfe, was cenſured juſt and honourable by the Parliament, who furniſhed the ſaid Sir <hi>Iohn Hotham</hi> with Forces for his defence againſt thoſe malignants in caſe they ſhould draw the King with His Army againſt him and the ſaid Towne, which they effected, though the ſtrength of the Towne and courage of the Governour inforced them to wave the ſiege of the place. Since there has been divers practiſes made a<g ref="char:EOLhyphen"/>gainſt the ſaid Towne and the life of Sir <hi>Iohn Hotham<g ref="char:punc">▪</g>
+               </hi> as has
+<pb n="4" facs="tcp:63012:3"/>
+been confeſſed; but none of them ſuiting to effect God, pre<g ref="char:EOLhyphen"/>venting their wicked purpoſes, the malignants in and abou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that riding of Yorkeſhire, thinking that now the buſineſſe of Hull had layne ſo long dead, Sir <hi>Iohn Hotham</hi> and his Garri<g ref="char:EOLhyphen"/>ſon were growne careleſſe and ſo feareleſſe of any attempt could be made againſt them. Upon theſe falſe Principles therefore<g ref="char:punc">▪</g> grounding their erronious opinion they made cock-ſure of the effecting their determination, ſome fifty or threeſcore Gentlemen being engag'd in this affaire, their ſer<g ref="char:EOLhyphen"/>vants and followers compleating them the number of 100 perſons, not doubting to find ſome malignants in Hull aſſi<g ref="char:EOLhyphen"/>ſtant to their treachery, over they went to Grimsby in Lin<g ref="char:EOLhyphen"/>colnſhire, from thence meaning to paſſe the Humber to Hull in the diſguiſed habits of Seamen undiſcovered: ſo comming thither in divers Companies by two and two, to avoid ſuſpi<g ref="char:EOLhyphen"/>tion to get paſſage over to the Towne, ſome day one, and ſome day another in ſeverall Barques; where they (when all met) reſolved to evade queſtioning or ſuſpect, never to be ſeen together, not ſo many as three in a Company till that very night they were to put their fatall determination in ex<g ref="char:EOLhyphen"/>ecution. Some of them had moſt mind, if it were poſſible, to murder Sir <hi>Iohn Hotham</hi> as he ſhould iſſue out of his houſe; others, if it were poſſible, to ſeize the Magazine of the Garri<g ref="char:EOLhyphen"/>ſon or blow it up; but both theſe opinions, as too uncertaine and full of danger to themſelves was rejected and their reſo<g ref="char:EOLhyphen"/>lution fixed on this, that ſeeming ſaylors and ſuch as wanted imployment, they ſhould pretend they were Mariners had ſerv'd in Denmarke and the Hans Townes, and being now out of ſervice they came to offer themſelves to Sir <hi>Iohn</hi> to be as ſouldiers for the defence of the Towne, if he accepted them, as there was no reaſon nor likelyhood but he would, that then they would ſome night, having the watch, ſeize upon ſome part of the Towne, and turne the Ordnance a<g ref="char:EOLhyphen"/>gainſt them, that ſhould oppoſe them till ſome Troops of my Lord of Cumberland who was pre-acquainted with their intentions, ſhould enter the Towne and deſtroy the Garri<g ref="char:EOLhyphen"/>ſon,
+<pb n="5" facs="tcp:63012:3"/>
+or elſe, if it happened ſo luckily that they could ſurprize either of the blocke-houſes or forts, that then they ſhould not doubt to maſter the towne with much eaſe, or beat it downe about the garriſon and Inhabitants cares. This re<g ref="char:EOLhyphen"/>ſolved upon, as the ſafeſt way for atchieving their practice, they went ſome ten of the likelieſt fellowes of them to Sir <hi>Iohns</hi> Lievtenant to offer their owne and their companions ſervices to their Captaine the Governor, alledging, that they were come out of <hi>Denmarke,</hi> and had rather hazard their lives for the ſafety of the Common-wealth in that towne, then any other place, the Lievtenant glad of obtaining ſo ma<g ref="char:EOLhyphen"/>ny proper men (the garriſon being much debilitated, by rea<g ref="char:EOLhyphen"/>ſon of drawing out good ſtore of the beſt experienced ſoul<g ref="char:EOLhyphen"/>diers to furniſh Maſter <hi>Hothams</hi> Regiment for the ſervice at <hi>Yorke</hi>) went to Sir <hi>Iohn</hi> and acquainted him with the ſtate of the matter, who gave him order to afford them courteous entertainement, and to diſperſe them for the re-inforcement of thoſe companies that had moſt need of ſupplies. The Lievtenant performing Sir <hi>Iohns</hi> Commands, diſtributed twenty of them into their Serjeant Majors company, that was very weake, ten into their owne Company, and ſo the reſt as occaſion ſerved into every Company that wanted men in the towne. The ten that were in Sir <hi>Iohns</hi> owne Com<g ref="char:EOLhyphen"/>pany, the better to inſinuate themſelves into favour, demea<g ref="char:EOLhyphen"/>ning themſelves very civilly, and upon all occaſions, either of watch or other ſervice, moſt exactly performing their duties; ſo that they were in very good repute, both with Sir <hi>Iohn</hi> himſelfe, his Lievtenant, and all his inferiour offi<g ref="char:EOLhyphen"/>cers; the other that were in the Serjeant Majors and other Companies, carrying themſelves with the ſame cunning, ſpending their money very liberally among their fellow ſouldiers, which they pretended they brought out of <hi>Denmarke</hi> with them, ſo to ingratiate themſelves among them, that they might with greater eaſe facili<g ref="char:EOLhyphen"/>tate their purpoſe, intending to draw as many as they poſ<g ref="char:EOLhyphen"/>ſible could to their party, yet very cautious of diſcovering
+<pb n="6" facs="tcp:63012:4"/>
+their deſigne to any, leſt it ſhould be made knowne to Sir <hi>Iohn,</hi> giving the Earle of <hi>Cumberland</hi> by a private and ſubtile meſſenger they had in the towne, and receiving incourage<g ref="char:EOLhyphen"/>ment from him to goe on couragiouſly, promiſing them, that when they ſhould ſignifie to him the probable time for ſur<g ref="char:EOLhyphen"/>prizall of the town he would not faile againſt that very night to have ſome able troopes in readineſſe, which about the dead of the ſame night ſhould be in armes before that gate which they ſhould open. All things going on thus without ſuſpicion, they continued a whole fortnight in this manner, watching (like wilde beaſts for their prey) for all occaſions that might quickly furniſh and effect their wicked intenti<g ref="char:EOLhyphen"/>ons, meaning alſo, as ſome adviſed inhumanity, to fire the towne, that while the Inhabitants were imploy'd in extin<g ref="char:EOLhyphen"/>guiſhing that, they might with more eaſe let in their ac<g ref="char:EOLhyphen"/>complices the enemy. On Sunday therefore the ſeven and twentieth of <hi>November,</hi> moſt of them being to be upon the watch at one of the Courts of guard cloſe to the gate that opens towards <hi>Yorke.</hi> So on that night they reſolv'd to <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>n the horſe, or loſe the ſaddle; and therefore by the aforeſaid intelligence gave notice to the E<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le of their reſolution, inti<g ref="char:EOLhyphen"/>mating the poſſibility they had of effecting their deſigne, if his Lordſhip did not faile to ſend them thoſe which they could eaſily let into the towne. The Earle ſent backe the meſſenger with aſſured and certaine promiſes, not to faile againſt the time; this being on the Sunday before the fatall night, as it hapned to themſelves: for the troopes with <unclear>each</unclear> a Musketier behind, to the number of three hundred men, ad<g ref="char:EOLhyphen"/>vancing before day, by a backe way out of <hi>Yorke,</hi> before they could recover the way to <hi>Hull,</hi> were eſpi'd by ſome of my Lord <hi>Fairefaxes</hi> Centinels, and ſet upon by his horſe troops, to it they went very roundly, and fought it out very val<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t<g ref="char:EOLhyphen"/>ly with our men who aſſaulted them on all ſides, beating them downe from their horſes without mercy, ſo that after the ſlaughter of their chiefe Commander, quitting their Muſquetiers, who were all either ſlaine, or taken priſoners,
+<pb n="7" facs="tcp:63012:4"/>
+the ſurviving horſemen betook themſelves to flight, but were ſon arrowly ſurpris'd, and charg'd ſo hotly by our men that being impoſſibled of eſcape, they were all ſlaine, or taken pri<g ref="char:EOLhyphen"/>ſoners, not one getting away to carry tidings back to the Earl of their diſaſter, being brought before the Generall the Lord <hi>Fairefax,</hi> and ſtrictly examined, Letters were found about ſome of them, that teſtified whither they were imploy'd, and to what purpoſe. My Lord <hi>Fairefax</hi> and Maſter <hi>Hotham</hi> amaz'd at that unexpected danger which was ſo neerly imi<g ref="char:EOLhyphen"/>nent on <hi>Hull,</hi> diſpatch'd with all ſpeed a Poſt thither to Sir <hi>Iohn,</hi> giving him all the intelligence they could poſſible of this miſchiefe, but could not diſcover their number, that be<g ref="char:EOLhyphen"/>ing not expreſſed in the Letters. Sir <hi>Iohn</hi> a wiſe and under<g ref="char:EOLhyphen"/>ſtanding Gentleman, no whit terrified with theſe tidings, caſt about to prevent the danger, muſing who the men ſhould be that ſhould be ſo trecherous; of the fidelity of the towneſ<g ref="char:EOLhyphen"/>men and garriſon ſouldiers he had no reaſon to doubt, at laſt theſe Saylors came into his minde, and weighing their man<g ref="char:EOLhyphen"/>ner of comming thither, and their generall deportment ſince their arrivall, hee and his Councell, abſolutely determin'd they might be men in whom this treaſon lurk'd, and under<g ref="char:EOLhyphen"/>ſtanding that moſt of them were to be upon the watch that night at <hi>York</hi> Port, he then concluded it was ſo, and reſolv'd to give the Gudgeons line til they were faſt caught by the gills, commanding his owne guard, and an hundred more of able ſouldiers, when the watch was ſet, to have an eye to that gate, and to ſeize theſe treacherous villains, who making ſure account to ſurprize the towne, at the houre of the watch, were repayr'd to their ſtations, and becauſe the keyes of the gates were carryed to the Governour, they had provided pe<g ref="char:EOLhyphen"/>tars to blow them open, expecting onely the ſignall from my Lord of <hi>Cumberland,</hi> which was a light in the fields; for which, ſome of them watched on the rampiers. A Millar dwelling without the towne, going to his Mill about twelve of clocke with a candle and a Lanthorne, gave them the ſignall they expected, and imagining the troops were come
+<pb n="8" facs="tcp:63012:5"/>
+to the gate, they went, and were faſtning two pet<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs to it; when Sir <hi>Iohns</hi> guard, who had waited their attempt, taking them in the manner, laid hold or them, ſome of them dre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Swords, and ſhot off their Muſquets, but hurt not a man of ours, two of them onely being ſlaine, who had Crucifix<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> about their neckes, the reſt bound and committed to priſon<g ref="char:punc">▪</g> diſcovered their plot, for which they are to ſuffer condigne puniſhment.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
